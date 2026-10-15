@@ -1,0 +1,3752 @@
+[
+  {
+    "url": "https://cuberto.com/cover.png",
+    "bytes": 209343,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/favicon-32x32.png",
+    "bytes": 741,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/favicon-16x16.png",
+    "bytes": 545,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/favicon.ico",
+    "bytes": 7406,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/apple-touch-icon.png",
+    "bytes": 2398,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/site.webmanifest",
+    "bytes": 514,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/web-app-manifest-512x512.png",
+    "bytes": 7635,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/gtm.js",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/ClientRouter.astro_astro_type_script_index_0_lang.BwNNTcOP.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 13854,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.CqtjrkGh.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 20381,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/Footer.v_lo1qnf.css",
+    "bytes": 25007,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/FaqSection.CqzsafLb.css",
+    "bytes": 8878,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/OverviewSection.CiLUHBLp.css",
+    "bytes": 8350,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/SummarySection.CdpLgy4-.css",
+    "bytes": 8903,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/page.DlE-BEKB.js",
+    "bytes": 84,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.CW8OEsnx.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1429,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.B2DOFWPC.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 11455,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.B2sJen6M.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1641,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.CUeB0S19.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 940,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/showreel/short.mp4",
+    "bytes": 6003109,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/showreel/short-sm.mp4",
+    "bytes": 2068309,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.XzcFPccV.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1480,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/showreel/full-1440-60.mp4",
+    "bytes": 0,
+    "error": "asset exceeds 35 MiB limit"
+  },
+  {
+    "url": "https://cuberto.com/_astro/ShowreelModal.astro_astro_type_script_index_0_lang.B1KT2MH_.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 626,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.CHWeNzN6.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1149,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.Bl-2s6At_Z2afRHb.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 10390,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.Bl-2s6At_Z2afRHb.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/1.Bl-2s6At_Z1WjPlK.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/1.Bl-2s6At_Z2afRHb.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/1.Bl-2s6At_Z1WjPlK.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.Cbn_yJDi_Zveefg.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 15600,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.Cbn_yJDi_Zveefg.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/2.Cbn_yJDi_Z1stelD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/2.Cbn_yJDi_Zveefg.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/2.Cbn_yJDi_Z1stelD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.8l0Om8fh_Z1c5pWo.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 15168,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.8l0Om8fh_Z1c5pWo.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/3.8l0Om8fh_Z2ocAYX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/3.8l0Om8fh_Z1c5pWo.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/3.8l0Om8fh_Z2ocAYX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.DeMCQtwn_Z234pqV.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 15372,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.DeMCQtwn_Z234pqV.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/4.DeMCQtwn_1GuvSR.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/4.DeMCQtwn_Z234pqV.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/4.DeMCQtwn_1GuvSR.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/5.C2LvZqUN_1lc3Le.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 16378,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/5.C2LvZqUN_1lc3Le.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/5.C2LvZqUN_eGkok.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/5.C2LvZqUN_1lc3Le.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/5.C2LvZqUN_eGkok.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.D3dz7I0X.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2276,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/mapbox/logo.svg",
+    "bytes": 2364,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/logo.svg",
+    "bytes": 1658,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/spark/logo.svg",
+    "bytes": 20025,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/tradingview/logo.svg",
+    "bytes": 3522,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/logo.svg",
+    "bytes": 12599,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/logo.svg",
+    "bytes": 1543,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/logo.svg",
+    "bytes": 8230,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/etihad/logo.svg",
+    "bytes": 5890,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/raiffeisen/logo.svg",
+    "bytes": 2336,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/ikea/logo.svg",
+    "bytes": 1474,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/mcdonalds/logo.svg",
+    "bytes": 711,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/housing/logo.svg",
+    "bytes": 2791,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.BDLoWLSu.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 501,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/cover.jpg",
+    "bytes": 86867,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/cover.mp4?2",
+    "bytes": 433742,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.DUafXxYS.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 500,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/cover.jpg",
+    "bytes": 74254,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/cover.mp4?2",
+    "bytes": 1566866,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/cover.jpg",
+    "bytes": 42911,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/cover.mp4?2",
+    "bytes": 398974,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/cover.jpg",
+    "bytes": 68213,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/cover.mp4?2",
+    "bytes": 643808,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/cover.jpg",
+    "bytes": 71441,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/cover.mp4?2",
+    "bytes": 571354,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/cover.jpg",
+    "bytes": 64540,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/cover.mp4?2",
+    "bytes": 1108873,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/cover.jpg",
+    "bytes": 118916,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/cover.mp4?2",
+    "bytes": 751310,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/cover.jpg",
+    "bytes": 124003,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/cover.mp4?2",
+    "bytes": 416162,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/cover.jpg",
+    "bytes": 90941,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/cover.mp4?2",
+    "bytes": 1846362,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/cover.jpg",
+    "bytes": 27502,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/cover.mp4?2",
+    "bytes": 418959,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.w0O5qppz.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 890,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/zelt.B9XGYd7i_drLgS.svg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 912,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/loanpro.Bmrma3Rk_1y0B2z.svg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 7172,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/potion.B3IVh9gl_1y0B2z.svg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 4571,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/livespot.ChMorPix_1y0B2z.svg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2557,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/sca.BzyyA1aM_1y0B2z.svg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 12473,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.D09N7-0_.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 3784,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_6_2_0da3d2f356_1Wxxwc.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 41762,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_6_2_0da3d2f356_1Wxxwc.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/art_6_2_0da3d2f356_2klun5.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/art_6_2_0da3d2f356_1Wxxwc.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/art_6_2_0da3d2f356_2klun5.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_49e6aa2703_i2smm.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 39922,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_49e6aa2703_i2smm.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/article_5_1_49e6aa2703_Z7aiR4.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/article_5_1_49e6aa2703_i2smm.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/article_5_1_49e6aa2703_Z7aiR4.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_2_7b0a717002_2lCI8d.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 44396,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_2_7b0a717002_2lCI8d.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/article_5_2_7b0a717002_1VpVSM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/article_5_2_7b0a717002_2lCI8d.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/article_5_2_7b0a717002_1VpVSM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.DHNwXhyW.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 491,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.BbFVEA79_ZPnPpw.jpg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 263883,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.BbFVEA79_ZPnPpw.jpg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/bg.BbFVEA79_21cPbT.jpg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x",
+    "bytes": 0,
+    "error": "URL can't contain control characters. '/_astro/bg.BbFVEA79_ZPnPpw.jpg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 1x, /_astro/bg.BbFVEA79_21cPbT.jpg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA 2x' (found at least ' ')"
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.kL_H5pmt.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 578,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/RoundButton.astro_astro_type_script_index_0_lang.8lbYnMzt.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 496,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.CcCig6ZX.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 6825,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/prefetch.257-16wZ.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2561,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/${n.getAttribute(`href`)}",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/dist.t8-TqA7y.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 4695,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/ScrollTrigger.DBzICErp.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 42735,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/gsap.DWxn8li7.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 69587,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-light.woff2",
+    "bytes": 5964,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-light.woff",
+    "bytes": 43852,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-regular.woff2",
+    "bytes": 17228,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-regular.woff",
+    "bytes": 21123,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-medium.woff2",
+    "bytes": 17788,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-medium.woff",
+    "bytes": 21851,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-semibold.woff2",
+    "bytes": 17640,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-semibold.woff",
+    "bytes": 21445,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-bold.woff2",
+    "bytes": 17852,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/fonts/suisseintl/suisseintl-bold.woff",
+    "bytes": 22158,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/`+this.options.iconSvgSrc+`#`+e+`",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/transitions.CdIm4AGU.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 9843,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/showreel/full-1440-60.mp4",
+    "bytes": 85160081,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.Bl-2s6At_Z1WjPlK.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 40290,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.Cbn_yJDi_Z1stelD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 51120,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.8l0Om8fh_Z2ocAYX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 48782,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.DeMCQtwn_1GuvSR.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 52192,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/5.C2LvZqUN_eGkok.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 52714,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/cover@2x.jpg",
+    "bytes": 222255,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/cover@2x.jpg",
+    "bytes": 190030,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/cover@2x.jpg",
+    "bytes": 179633,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/cover@2x.jpg",
+    "bytes": 179091,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/cover@2x.jpg",
+    "bytes": 196093,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/cover@2x.jpg",
+    "bytes": 143386,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/cover@2x.jpg",
+    "bytes": 164844,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/cover@2x.jpg",
+    "bytes": 339798,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/cover@2x.jpg",
+    "bytes": 271682,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/cover@2x.jpg",
+    "bytes": 71438,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_6_2_0da3d2f356_2klun5.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 110658,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_49e6aa2703_Z7aiR4.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 107508,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_2_7b0a717002_1VpVSM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 114296,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.BbFVEA79_21cPbT.jpg?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1080636,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/screenshot/1.jpg",
+    "bytes": 342480,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/3.jpg",
+    "bytes": 251766,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/2.jpg",
+    "bytes": 297963,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.Bt1zTf9g.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 906,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/screenshot/2.jpg",
+    "bytes": 232226,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/screenshot/3.mp4",
+    "bytes": 2071818,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/raiffeisen.svg",
+    "bytes": 2652,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/mapbox.svg",
+    "bytes": 2493,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/cisco.svg",
+    "bytes": 1832,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/spark.svg",
+    "bytes": 24010,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/tradingview.svg",
+    "bytes": 3774,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/tinkoff.svg",
+    "bytes": 13945,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/yandex.svg",
+    "bytes": 1445,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/etihad.svg",
+    "bytes": 6301,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/partners/euroauto.svg",
+    "bytes": 1812,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.Ledc9f5t.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 66460,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/5.jpg",
+    "bytes": 294381,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/6.jpg",
+    "bytes": 311176,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/3@2x.jpg",
+    "bytes": 408615,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/2@2x.jpg",
+    "bytes": 527693,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/5@2x.jpg",
+    "bytes": 452206,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/about/splitshow/6@2x.jpg",
+    "bytes": 675201,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_2_9ba66dfdda_ZL3FQ0.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 31812,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/Article_3_1_c98aff68e9_Z11M85G.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 32618,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/image_4_ae6438c9af_1D3tAO.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 38896,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/image_2_e4ec9fb366_UWqkx.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 38442,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/54299d9789b57642a5b0bd39efb37175_03a4f580f1_1iP1x6.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 75700,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/0dc60d465222db37738a6e2222207dce_0175db0d83_HxFvX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 62770,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/016aefcc0949accfcd0c31034dec17d6_d25cd7a401_2aPjXp.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 18478,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/fc47b4ffd30cda6aee8bedeba56b1592_753256d057_289eee.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 40446,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/77461a747c7cc7b1455dfa51dc92e91e_051602dac7_ZdleVd.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 14146,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/24695b7cf9743c5a6eccdc266d463738_6d8c3d7052_Kl1Sl.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 69240,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/7f4850f9811eb63332f1df6c48db0b65_ecc1f5bc6e_p1Ebc.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 39440,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/01766875a3310148382f688ac5efc17b_312689010f_ZGbqSe.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 77786,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/42afa4ddc89294a7d37c04c103748025_09aec32683_ZkcaKx.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 41286,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/6168abe4c24385ac03eb2cae4e1c9b0f_ba000eb302_2nnr27.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 29164,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/201ccec89bef968c786826f1da878c0c_bfdee32f9b_Z27J2rW.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 59318,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/ce2c43d7ced28b395d15e3b0aa0a2f77_2bcf21571e_Z1dUzia.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 8924,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/5884979240c41338a3596a5b93f0166c_ec663d8321_Z1OrqTO.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 38912,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/8625f955c5e52b0d1a0fdbf356989f64_95fda3c27f_9Sv2i.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 55880,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/dbad58e6d370736fb98b497ea601f1aa_3e12a5cfdf_Z13RiLO.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 15820,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3c2728ec6cc21563e37fb42223981c83_4c82b5f282_16rWvD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 23792,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/8518f4371ee69345f452fe964e533fb6_bb6d42eb05_1v2hDp.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 27558,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c38bb4f7aeb2bd199af95937628c8889_927d08c925_15qDf7.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 27010,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/d5ae8bd0bc1b64ea514d72d84625d613_bf3839ab42_Z2fqlh0.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 11712,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/63ebc5664567e94b56b56b328a333668_a3254f9f70_2jajr5.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 22792,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c1fd781a32e8f2b2607314005a066ed5_780bc042a0_Z3Pv6y.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 62706,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/a24e7a47f3d1749e856e1c70c1dadd33_a7a3042014_Z1jzso8.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 18554,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c939a1c5718171246b575b420003d062_750393d989_Z1AoqfY.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 60820,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/9b58ca47a0ae09b59311e073d12eada4_fe21dbfc91_Z2hYIXu.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 93568,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/685f53ac7a3fd6aec1394713f058eb5e_0354bba4f6_Zj1Rl8.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 50286,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c259c53adfa46e52057ad98dc131c2db_f7c066e022_Z1yQESl.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 46920,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/5580a19803dc593e8fcaab9e3d252f80_cea1fd98ae_ZfCK7n.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 34400,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/95d6f0cfeedecc785403e64526932cdb_e730ce5afe_2g8gzD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 52016,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/f273e211f1641720536429553dca8fdd_b6c9939116_1rXdoP.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 50156,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3af505c0c65cb471dd781d6986de48b6_8c14690d43_2dbzap.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 80248,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/05ce477944c41c721c30dc2b21ff61ea_0aba3f8cba_2vS06G.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 116534,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/a8516f28f015a636b825d54994347688_bc3b2ea855_Z2b7xeI.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 41500,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/21d8f0f3838b00644dc3542ff55724f7_d5e13f1ed0_ZGoLpg.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 54204,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/df6626fdbb8a3009294a32aab04231af_a95ae89bd7_1etBDs.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 51540,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/db01a185654231d22d38a67972c8eaf6_8cfd6fb428_1r5WwN.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 47512,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/6d589b4f6e373312d76aad7d8da35975_3683069a09_Z8Pf0X.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 67168,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/7c1a11440121c9d9dd140f131bb516ce_c36b74591a_1eqHOQ.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 30400,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/a60eca6e34eff06dd753780836e106cd_0ff8acf5f5_TtPqy.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 30482,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.Bq1ToGFQ.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2003,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_2_9ba66dfdda_Z16ByCj.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 82606,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/Article_3_1_c98aff68e9_Z2rYbI9.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 99476,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/image_4_ae6438c9af_20QqrH.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 126142,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/image_2_e4ec9fb366_1iKnbq.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 126724,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/54299d9789b57642a5b0bd39efb37175_03a4f580f1_1PTPD7.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 123614,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/0dc60d465222db37738a6e2222207dce_0175db0d83_Z1kiot9.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 85002,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/016aefcc0949accfcd0c31034dec17d6_d25cd7a401_Z1I7DSP.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 25392,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/fc47b4ffd30cda6aee8bedeba56b1592_753256d057_1YFyWv.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 54300,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/77461a747c7cc7b1455dfa51dc92e91e_051602dac7_fXL6R.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 18762,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/24695b7cf9743c5a6eccdc266d463738_6d8c3d7052_5grSx.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 116436,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/7f4850f9811eb63332f1df6c48db0b65_ecc1f5bc6e_ZzaMoa.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 57220,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/01766875a3310148382f688ac5efc17b_312689010f_Qy85a.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 105756,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/42afa4ddc89294a7d37c04c103748025_09aec32683_1QM2lD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 71868,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/6168abe4c24385ac03eb2cae4e1c9b0f_ba000eb302_ZqucOU.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 37624,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/201ccec89bef968c786826f1da878c0c_bfdee32f9b_28gPNd.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 87880,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/ce2c43d7ced28b395d15e3b0aa0a2f77_2bcf21571e_ZvLH80.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 11460,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/5884979240c41338a3596a5b93f0166c_ec663d8321_1fO80p.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 67864,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/8625f955c5e52b0d1a0fdbf356989f64_95fda3c27f_1T4PHK.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 91356,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/dbad58e6d370736fb98b497ea601f1aa_3e12a5cfdf_Zujs1g.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 24816,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3c2728ec6cc21563e37fb42223981c83_4c82b5f282_DnVHO.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 48104,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/8518f4371ee69345f452fe964e533fb6_bb6d42eb05_Z27ffM6.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 49702,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c38bb4f7aeb2bd199af95937628c8889_927d08c925_7I9jy.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 42318,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/d5ae8bd0bc1b64ea514d72d84625d613_bf3839ab42_Z1LdHCj.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 17022,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/63ebc5664567e94b56b56b328a333668_a3254f9f70_2v24F0.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 39334,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c1fd781a32e8f2b2607314005a066ed5_780bc042a0_op2g.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 94920,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/a24e7a47f3d1749e856e1c70c1dadd33_a7a3042014_1G8VDW.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 24212,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c939a1c5718171246b575b420003d062_750393d989_Z1L2Onx.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 93032,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/9b58ca47a0ae09b59311e073d12eada4_fe21dbfc91_20unAn.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 153596,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/685f53ac7a3fd6aec1394713f058eb5e_0354bba4f6_2s1ogl.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 78648,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/c259c53adfa46e52057ad98dc131c2db_f7c066e022_ZYofRI.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 67978,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/5580a19803dc593e8fcaab9e3d252f80_cea1fd98ae_ZSU4yd.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 52656,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/95d6f0cfeedecc785403e64526932cdb_e730ce5afe_WYC1h.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 77088,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/f273e211f1641720536429553dca8fdd_b6c9939116_1oRIC3.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 83712,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3af505c0c65cb471dd781d6986de48b6_8c14690d43_ZwjUMP.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 123906,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/05ce477944c41c721c30dc2b21ff61ea_0aba3f8cba_Z1ca2k4.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 188370,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/a8516f28f015a636b825d54994347688_bc3b2ea855_pkcwk.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 59084,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/21d8f0f3838b00644dc3542ff55724f7_d5e13f1ed0_JLGN9.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 76722,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/df6626fdbb8a3009294a32aab04231af_a95ae89bd7_ZlWN7H.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 77792,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/db01a185654231d22d38a67972c8eaf6_8cfd6fb428_WNEF2.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 71046,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/6d589b4f6e373312d76aad7d8da35975_3683069a09_Z2wsp7r.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 99536,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/7c1a11440121c9d9dd140f131bb516ce_c36b74591a_ZnqEkv.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 42294,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/a60eca6e34eff06dd753780836e106cd_0ff8acf5f5_Zlrv2M.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 50020,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/ArticleSection.Drv2lNby.css",
+    "bytes": 5106,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_6_382bab4c0c_ZPW5zU.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 103918,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.t8iyyOF_.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1464,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_6_382bab4c0c_1rISoW.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 267462,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_d4413d834c_2hC0Lg.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 103704,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_1_f9d64a028a_Z8KLjk.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 57404,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_1.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_2_a3ea38d9bd_dnMmu.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 38426,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_2.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_3_f688c6844f_ZDFAQi.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 61024,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_3.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_4_25bdd49e3a_1O8p1W.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 149510,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_4.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_5_14a37a7fcb_Zw1KKb.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 256698,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_5.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_6_2827f75054_QmxRo.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 141482,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_6.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_7_a3ce64bb3a_1L5zdQ.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 142390,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_7.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_8_d0340e4f20_Z1rYUtt.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 53056,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_8.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_9_42e8030dfc_em0Hl.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 70304,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_9.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_10_4adf45db06_TbJwk.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 57598,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_10.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_11_d953cf091d_Zdscpi.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 240804,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/art_5_11.png",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_2_7b0a717002_Z1gmUS4.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 9706,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_2_9ba66dfdda_y1MFu.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 7238,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/Article_3_1_c98aff68e9_qolGX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 7550,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_d4413d834c_Z1OPgyM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 275078,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_1_f9d64a028a_2t2xXD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 57404,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_2_a3ea38d9bd_Z2f019t.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 38426,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_3_f688c6844f_1X7IqF.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 61024,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_4_25bdd49e3a_ZDfou1.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 149510,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_5_14a37a7fcb_25LywM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 256698,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_6_2827f75054_Z1B1fDz.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 141482,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_7_a3ce64bb3a_ZGiei7.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 142390,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_8_d0340e4f20_19NoNu.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 53056,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_9_42e8030dfc_Z2e1MNC.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 70304,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_10_4adf45db06_ToeUo.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 57598,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_5_11_d953cf091d_ZdfH1e.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 240804,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_2_7b0a717002_2jm4Ti.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 27522,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/art_2_9ba66dfdda_Z18raXw.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 19148,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/Article_3_1_c98aff68e9_Z2533HD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 19824,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_f1b2711206_wHcIv.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 92456,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_49e6aa2703_1KdWa1.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 8762,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_f1b2711206_1Q6rXF.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 250978,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/article_5_1_49e6aa2703_fKO8r.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 24100,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/MessageModal.DSRFL3nG.css",
+    "bytes": 7975,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/UnderlineInput.astro_astro_type_script_index_0_lang.C61jHRL9.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 924,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/FileInput.astro_astro_type_script_index_0_lang.DdBrEv9L.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2136,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/MessageModal.astro_astro_type_script_index_0_lang.Cz-IxpkX.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 608,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.CZ2m-43m.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 96,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_1_lang.BOywBvfZ.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2718,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/kzero/cover.jpg",
+    "bytes": 46899,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/magma/cover.jpg",
+    "bytes": 68124,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/ferrumpipe/cover.jpg",
+    "bytes": 64950,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/nurseclub/cover.jpg",
+    "bytes": 92119,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/ulesson/cover.jpg",
+    "bytes": 24399,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sleepiest/cover.jpg",
+    "bytes": 33188,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/genesis/cover.jpg",
+    "bytes": 34105,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/wickret/cover.jpg",
+    "bytes": 18468,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/rallyreader/cover.jpg",
+    "bytes": 140310,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/consumervoice/cover.jpg",
+    "bytes": 39143,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/monmarche/cover.jpg",
+    "bytes": 51691,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/datalight/cover.jpg",
+    "bytes": 34341,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/kzero/cover@2x.jpg",
+    "bytes": 148961,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/magma/cover@2x.jpg",
+    "bytes": 192661,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/ferrumpipe/cover@2x.jpg",
+    "bytes": 180947,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/nurseclub/cover@2x.jpg",
+    "bytes": 329218,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/ulesson/cover@2x.jpg",
+    "bytes": 80655,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sleepiest/cover@2x.jpg",
+    "bytes": 118972,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/genesis/cover@2x.jpg",
+    "bytes": 90099,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/wickret/cover@2x.jpg",
+    "bytes": 56771,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/rallyreader/cover@2x.jpg",
+    "bytes": 372614,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/consumervoice/cover@2x.jpg",
+    "bytes": 90371,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/monmarche/cover@2x.jpg",
+    "bytes": 170544,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/datalight/cover@2x.jpg",
+    "bytes": 97503,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/1.jpg",
+    "bytes": 308379,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/main.jpg",
+    "bytes": 190257,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/2.jpg",
+    "bytes": 150806,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/1.png",
+    "bytes": 110343,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/2.jpg",
+    "bytes": 73053,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/3.jpg",
+    "bytes": 189033,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/4.png",
+    "bytes": 104792,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/3.jpg",
+    "bytes": 195209,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/4.jpg",
+    "bytes": 80188,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/5.jpg",
+    "bytes": 121919,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/6.jpg",
+    "bytes": 98347,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.DGXuUge2.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 13200,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/main@1.5x.jpg",
+    "bytes": 309967,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/1@1.5x.jpg",
+    "bytes": 495063,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/2@1.5x.jpg",
+    "bytes": 235243,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/1@2x.png",
+    "bytes": 294902,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/2@2x.jpg",
+    "bytes": 207706,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/3@2x.jpg",
+    "bytes": 435059,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/4@2x.png",
+    "bytes": 251320,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/3@1.5x.jpg",
+    "bytes": 311904,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/screenshot/4@1.5x.jpg",
+    "bytes": 145745,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/5@2x.jpg",
+    "bytes": 293368,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/splitshow/6@2x.jpg",
+    "bytes": 252223,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/1.png",
+    "bytes": 114144,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/main.jpg?2",
+    "bytes": 99815,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/1.png?3",
+    "bytes": 114144,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/1.png",
+    "bytes": 90846,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/2.png",
+    "bytes": 16205,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/3.png",
+    "bytes": 8701,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/4.png",
+    "bytes": 15227,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/2.mp4",
+    "bytes": 3635124,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/3.jpg",
+    "bytes": 295162,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/5.jpg",
+    "bytes": 46435,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/6.png",
+    "bytes": 39347,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/7.mp4",
+    "bytes": 870920,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/8.png",
+    "bytes": 19918,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/9.png",
+    "bytes": 9326,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/10.png",
+    "bytes": 47939,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/11.png",
+    "bytes": 38855,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/12.png",
+    "bytes": 30247,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/4.mp4",
+    "bytes": 4801918,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/13.png",
+    "bytes": 50218,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/14.png",
+    "bytes": 60300,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/15.png",
+    "bytes": 15288,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/16.png",
+    "bytes": 29757,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/17.png",
+    "bytes": 16941,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/18.png",
+    "bytes": 4596,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/19.png",
+    "bytes": 6680,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/20.png",
+    "bytes": 69690,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/cover.mp4",
+    "bytes": 643808,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/main@1.5x.jpg?2",
+    "bytes": 187530,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/1@1.5x.png?3",
+    "bytes": 224803,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/1@2x.png",
+    "bytes": 354447,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/2@2x.png",
+    "bytes": 40145,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/3@2x.png",
+    "bytes": 19411,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/4@2x.png",
+    "bytes": 41561,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/screenshot/3@1.5x.jpg",
+    "bytes": 483797,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/5@2x.jpg",
+    "bytes": 128007,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/6@2x.png",
+    "bytes": 97752,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/8@2x.png",
+    "bytes": 48636,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/9@2x.png",
+    "bytes": 28088,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/10@2x.png",
+    "bytes": 161847,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/11@2x.png",
+    "bytes": 110780,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/12@2x.png",
+    "bytes": 93245,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/13@2x.png",
+    "bytes": 154381,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/14@2x.png",
+    "bytes": 186704,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/15@2x.png",
+    "bytes": 39221,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/16@2x.png",
+    "bytes": 73843,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/17@2x.png",
+    "bytes": 40107,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/18@2x.png",
+    "bytes": 10309,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/19@2x.png",
+    "bytes": 14629,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/splitshow/20@2x.png",
+    "bytes": 215349,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/main.jpg",
+    "bytes": 163639,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/main.mp4",
+    "bytes": 3045151,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/screenshot/1.jpg",
+    "bytes": 330716,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/1.png",
+    "bytes": 69910,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/2.png",
+    "bytes": 118452,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/3.png",
+    "bytes": 72773,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/4.png",
+    "bytes": 72610,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/screenshot/2.mp4",
+    "bytes": 6783386,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/screenshot/3.jpg",
+    "bytes": 268913,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/5.png",
+    "bytes": 127742,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/6.png",
+    "bytes": 55507,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/7.png",
+    "bytes": 68492,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/8.png",
+    "bytes": 49403,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/9.png",
+    "bytes": 85691,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/10.png",
+    "bytes": 16631,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/11.png",
+    "bytes": 47327,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/12.png",
+    "bytes": 13554,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/cover.mp4",
+    "bytes": 1566866,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/screenshot/1@1.5x.jpg",
+    "bytes": 525717,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/1@2x.png",
+    "bytes": 235927,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/2@2x.png",
+    "bytes": 423013,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/3@2x.png",
+    "bytes": 255229,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/4@2x.png",
+    "bytes": 205543,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/screenshot/3@1.5x.jpg",
+    "bytes": 405404,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/5@2x.png",
+    "bytes": 429097,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/6@2x.png",
+    "bytes": 178220,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/7@2x.png",
+    "bytes": 228634,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/8@2x.png",
+    "bytes": 155693,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/9@2x.png",
+    "bytes": 331621,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/10@2x.png",
+    "bytes": 56259,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/11@2x.png",
+    "bytes": 160923,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/splitshow/12@2x.png",
+    "bytes": 30352,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/main.jpg",
+    "bytes": 124349,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/1.mp4",
+    "bytes": 588354,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/1.png",
+    "bytes": 10585,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/2.png",
+    "bytes": 9192,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/3.mp4",
+    "bytes": 556463,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/4.mp4",
+    "bytes": 1668279,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/2.mp4",
+    "bytes": 1391500,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/5.png",
+    "bytes": 30184,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/6.mp4",
+    "bytes": 487787,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/7.mp4",
+    "bytes": 349769,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/8.jpg",
+    "bytes": 100455,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/9.mp4",
+    "bytes": 104509,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/3.mp4",
+    "bytes": 476555,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/4.jpg",
+    "bytes": 92692,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/5.jpg",
+    "bytes": 111796,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/cover.mp4",
+    "bytes": 416162,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/main@1.5x.jpg",
+    "bytes": 197409,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/1@2x.png",
+    "bytes": 30232,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/2@2x.png",
+    "bytes": 19667,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/5@2x.png",
+    "bytes": 78320,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/splitshow/8@2x.jpg",
+    "bytes": 264599,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/4@1.5x.jpg",
+    "bytes": 147319,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/screenshot/5@1.5x.jpg",
+    "bytes": 183405,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/1.jpg",
+    "bytes": 368957,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/main.mp4",
+    "bytes": 777528,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/1.png",
+    "bytes": 2829,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/2.mp4",
+    "bytes": 163621,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/3.jpg",
+    "bytes": 103974,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/4.mp4",
+    "bytes": 426239,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/2.png",
+    "bytes": 171923,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/3.mp4",
+    "bytes": 1112401,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/5.png",
+    "bytes": 54270,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/6.png",
+    "bytes": 24185,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/7.png",
+    "bytes": 19972,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/8.mp4",
+    "bytes": 926237,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/9.png",
+    "bytes": 39597,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/10.png",
+    "bytes": 29411,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/4.png",
+    "bytes": 64007,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/11.png",
+    "bytes": 44888,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/12.png",
+    "bytes": 22417,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/13.png",
+    "bytes": 45933,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/14.png",
+    "bytes": 31975,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/15.png",
+    "bytes": 13402,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/16.png",
+    "bytes": 10153,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/5.jpg",
+    "bytes": 213088,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/6.jpg",
+    "bytes": 92590,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/cisco/cover.mp4",
+    "bytes": 571354,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/1@1.5x.jpg",
+    "bytes": 634261,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/1@2x.png",
+    "bytes": 6783,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/3@2x.jpg",
+    "bytes": 292071,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/2@1.5x.png",
+    "bytes": 235159,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/5@2x.png",
+    "bytes": 170196,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/6@2x.png",
+    "bytes": 70710,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/7@2x.png",
+    "bytes": 59873,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/9@2x.png",
+    "bytes": 115359,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/10@2x.png",
+    "bytes": 86381,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/4@1.5x.png",
+    "bytes": 123961,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/11@2x.png",
+    "bytes": 132990,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/12@2x.png",
+    "bytes": 62509,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/13@2x.png",
+    "bytes": 122426,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/14@2x.png",
+    "bytes": 100496,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/15@2x.png",
+    "bytes": 35634,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/splitshow/16@2x.png",
+    "bytes": 21800,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/5@1.5x.jpg",
+    "bytes": 380772,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/screenshot/6@1.5x.jpg",
+    "bytes": 173924,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/1.jpg",
+    "bytes": 212112,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/main.mp4",
+    "bytes": 838860,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/2.jpg",
+    "bytes": 110502,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/1.png",
+    "bytes": 6888,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/2.jpg",
+    "bytes": 43860,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/3.jpg",
+    "bytes": 75947,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/4.png",
+    "bytes": 38634,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/5.jpg",
+    "bytes": 42644,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/3.jpg",
+    "bytes": 110602,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/4.jpg",
+    "bytes": 224156,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/6.jpg",
+    "bytes": 59151,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/7.jpg",
+    "bytes": 67815,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/8.jpg",
+    "bytes": 32238,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/9.jpg",
+    "bytes": 59383,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/10.jpg",
+    "bytes": 46744,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/11.jpg",
+    "bytes": 55930,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/5.jpg",
+    "bytes": 80322,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/6.mp4",
+    "bytes": 2571989,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/find/cover.mp4",
+    "bytes": 1108873,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/1@1.5x.jpg",
+    "bytes": 372764,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/2@1.5x.jpg",
+    "bytes": 209895,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/1@2x.png",
+    "bytes": 16247,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/2@2x.jpg",
+    "bytes": 111877,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/3@2x.jpg",
+    "bytes": 204484,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/4@2x.png",
+    "bytes": 121985,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/5@2x.jpg",
+    "bytes": 112725,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/3@1.5x.jpg",
+    "bytes": 218293,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/4@1.5x.jpg",
+    "bytes": 384263,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/6@2x.jpg",
+    "bytes": 158108,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/7@2x.jpg",
+    "bytes": 156545,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/8@2x.jpg",
+    "bytes": 84694,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/9@2x.jpg",
+    "bytes": 149038,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/10@2x.jpg",
+    "bytes": 133679,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/splitshow/11@2x.jpg",
+    "bytes": 150824,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/puntopago/screenshot/5@1.5x.jpg",
+    "bytes": 144146,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/screenshot/1.jpg",
+    "bytes": 396260,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/main.mp4",
+    "bytes": 1946414,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/1.png",
+    "bytes": 2316,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/2.mp4",
+    "bytes": 321900,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/3.jpg",
+    "bytes": 91609,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/4.png",
+    "bytes": 20306,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/screenshot/2.jpg",
+    "bytes": 301020,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/5.jpg",
+    "bytes": 60114,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/6.jpg",
+    "bytes": 36310,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/7.jpg",
+    "bytes": 57138,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/8.jpg",
+    "bytes": 19284,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/9.mp4",
+    "bytes": 387641,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/10.jpg",
+    "bytes": 63312,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/11.jpg",
+    "bytes": 42998,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/12.jpg",
+    "bytes": 36916,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/screenshot/3.mp4",
+    "bytes": 1708087,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/13.jpg",
+    "bytes": 45471,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/14.jpg",
+    "bytes": 64964,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/15.jpg",
+    "bytes": 29678,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/16.jpg",
+    "bytes": 88852,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/17.mp4",
+    "bytes": 641025,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/18.jpg",
+    "bytes": 44709,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/19.jpg",
+    "bytes": 49253,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/20.jpg",
+    "bytes": 35880,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/screenshot/4.jpg",
+    "bytes": 172077,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/potion/cover.mp4",
+    "bytes": 418959,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/1@2x.png",
+    "bytes": 5839,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/3@2x.jpg",
+    "bytes": 293270,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/4@2x.png",
+    "bytes": 59341,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/screenshot/2@1.5x.jpg",
+    "bytes": 471804,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/5@2x.jpg",
+    "bytes": 159541,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/6@2x.jpg",
+    "bytes": 91581,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/7@2x.jpg",
+    "bytes": 169891,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/8@2x.jpg",
+    "bytes": 50434,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/10@2x.jpg",
+    "bytes": 189994,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/11@2x.jpg",
+    "bytes": 112617,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/12@2x.jpg",
+    "bytes": 87771,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/13@2x.jpg",
+    "bytes": 117167,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/14@2x.jpg",
+    "bytes": 170437,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/15@2x.jpg",
+    "bytes": 76385,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/16@2x.jpg",
+    "bytes": 242457,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/18@2x.jpg",
+    "bytes": 120181,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/19@2x.jpg",
+    "bytes": 121846,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/splitshow/20@2x.jpg",
+    "bytes": 93487,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/screenshot/4@1.5x.jpg",
+    "bytes": 315691,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/main.jpg",
+    "bytes": 506051,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/screenshot/1.jpg",
+    "bytes": 357637,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/1.jpg",
+    "bytes": 125383,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/2.jpg",
+    "bytes": 93243,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/3.jpg",
+    "bytes": 299066,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/4.jpg",
+    "bytes": 160499,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/screenshot/2.mp4",
+    "bytes": 1335865,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/5.jpg",
+    "bytes": 96299,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/6.jpg",
+    "bytes": 98473,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/7.jpg",
+    "bytes": 103039,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/screenshot/3.mp4",
+    "bytes": 626033,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/8.jpg",
+    "bytes": 95919,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/9.jpg",
+    "bytes": 34397,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/10.jpg",
+    "bytes": 138069,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/11.jpg",
+    "bytes": 208135,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/12.jpg",
+    "bytes": 210669,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/13.jpg",
+    "bytes": 98265,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/14.jpg",
+    "bytes": 106325,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/screenshot/4.jpg",
+    "bytes": 354747,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/qvino/cover.mp4",
+    "bytes": 1846362,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/1@2x.jpg",
+    "bytes": 318840,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/2@2x.jpg",
+    "bytes": 252490,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/3@2x.jpg",
+    "bytes": 597675,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/4@2x.jpg",
+    "bytes": 419786,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/5@2x.jpg",
+    "bytes": 230935,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/6@2x.jpg",
+    "bytes": 257490,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/7@2x.jpg",
+    "bytes": 237858,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/8@2x.jpg",
+    "bytes": 241029,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/9@2x.jpg",
+    "bytes": 95258,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/10@2x.jpg",
+    "bytes": 367762,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/11@2x.jpg",
+    "bytes": 505064,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/12@2x.jpg",
+    "bytes": 437461,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/13@2x.jpg",
+    "bytes": 248436,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/riyadh/splitshow/14@2x.jpg",
+    "bytes": 289104,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/main.jpg",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/main.mp4",
+    "bytes": 8942129,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/screenshot/1.jpg",
+    "bytes": 369052,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/1.png",
+    "bytes": 80781,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/2.png",
+    "bytes": 71453,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/3.jpg",
+    "bytes": 106001,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/4.png",
+    "bytes": 76244,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/screenshot/2.mp4",
+    "bytes": 4839184,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/screenshot/3.jpg",
+    "bytes": 284373,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/5.png",
+    "bytes": 40736,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/6.png",
+    "bytes": 84590,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/7.png",
+    "bytes": 85436,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/8.png",
+    "bytes": 79699,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/9.png",
+    "bytes": 45701,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/10.png",
+    "bytes": 22920,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/11.png",
+    "bytes": 71797,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/12.png",
+    "bytes": 18660,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/daoway/cover.mp4",
+    "bytes": 751310,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/screenshot/1@1.5x.jpg",
+    "bytes": 599106,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/1@2x.png",
+    "bytes": 254253,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/2@2x.png",
+    "bytes": 201844,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/3@2x.jpg",
+    "bytes": 288500,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/4@2x.png",
+    "bytes": 258833,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/screenshot/3@1.5x.jpg",
+    "bytes": 474086,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/5@2x.png",
+    "bytes": 132346,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/6@2x.png",
+    "bytes": 268163,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/7@2x.png",
+    "bytes": 318741,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/8@2x.png",
+    "bytes": 166580,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/9@2x.png",
+    "bytes": 152341,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/10@2x.png",
+    "bytes": 64549,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/11@2x.png",
+    "bytes": 205791,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/sca/splitshow/12@2x.png",
+    "bytes": 39990,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/main.jpg",
+    "bytes": 0,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/main.mp4",
+    "bytes": 2408973,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/1.jpg",
+    "bytes": 241017,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/1.png",
+    "bytes": 2335,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/2.png",
+    "bytes": 35074,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/3.jpg",
+    "bytes": 41425,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/4.jpg",
+    "bytes": 70288,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/5.png",
+    "bytes": 21426,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/6.png",
+    "bytes": 8048,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/2.png",
+    "bytes": 115733,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/3.mp4",
+    "bytes": 2063122,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/7.mp4",
+    "bytes": 295206,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/8.png",
+    "bytes": 30385,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/9.mp4",
+    "bytes": 52624,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/10.png",
+    "bytes": 51067,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/11.png",
+    "bytes": 55148,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/12.mp4",
+    "bytes": 714250,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/13.png",
+    "bytes": 56486,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/14.png",
+    "bytes": 48281,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/4.jpg",
+    "bytes": 285109,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/15.jpg",
+    "bytes": 38787,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/16.mp4",
+    "bytes": 787295,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/17.png",
+    "bytes": 16332,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/18.png",
+    "bytes": 54595,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/19.mp4",
+    "bytes": 255185,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/20.jpg",
+    "bytes": 53567,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/21.mp4",
+    "bytes": 515779,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/22.png",
+    "bytes": 14221,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/flipaclip/cover.mp4",
+    "bytes": 398974,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/1@1.5x.jpg",
+    "bytes": 394793,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/1@2x.png",
+    "bytes": 5688,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/2@2x.png",
+    "bytes": 110333,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/3@2x.jpg",
+    "bytes": 96786,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/4@2x.jpg",
+    "bytes": 164085,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/5@2x.png",
+    "bytes": 63232,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/6@2x.png",
+    "bytes": 18549,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/2@1.5x.png",
+    "bytes": 209753,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/8@2x.png",
+    "bytes": 79129,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/10@2x.png",
+    "bytes": 150209,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/11@2x.png",
+    "bytes": 164163,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/13@2x.png",
+    "bytes": 195084,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/14@2x.png",
+    "bytes": 144458,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/screenshot/4@1.5x.jpg",
+    "bytes": 408545,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/15@2x.jpg",
+    "bytes": 95186,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/17@2x.png",
+    "bytes": 43249,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/18@2x.png",
+    "bytes": 177257,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/20@2x.jpg",
+    "bytes": 127889,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/projects/zelt/splitshow/22@2x.png",
+    "bytes": 37130,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/assets/services/main.mp4",
+    "bytes": 1343282,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/QuickContactSection.D0ECdo9A.css",
+    "bytes": 7346,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.tR4z3dpu_ZSQ1B3.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 20424,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.BoVJ5Tna.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 903,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.DzLMAKC-_ZUn1oG.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 46128,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.ZR-fBNY__Z4GCvG.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 28208,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.ZmnMEiic_Z2dvSQh.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 26106,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.CGpxdWC8_ZUaCHh.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 29620,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.BDz5XtwD.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 535,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/puntopago.Dm8MD3T__Zci6Ux.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 39086,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/zelt.BlUMmOi1_1m6nKR.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 48606,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/find.C3yn97fY_ZpVCfq.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 50424,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.TFLmFpR-.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 1011,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.De7JisSg_KKqVj.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 18950,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_0_lang.DjwC8nYH.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 96,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/index.astro_astro_type_script_index_1_lang.C_x3Bow8.js?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 2183,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/6.CHxhycMz_19vHG6.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 15786,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/7.DrSXrcHy_ZYjvjj.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 18130,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/8.B32f4Kw5_Z1HSsvj.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 15454,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/9.B8OaJ5u4_1B1auE.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 18962,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/10.MMqnuNFW_1eFAFp.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 13756,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.tR4z3dpu_RP37x.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 72984,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.DzLMAKC-_Z1c2FGE.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 154892,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.ZR-fBNY__2wzvE7.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 86382,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.ZmnMEiic_29C5OX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 83094,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.CGpxdWC8_Z15JD8W.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 96806,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/puntopago.Dm8MD3T__1hlx3k.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 96478,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/zelt.BlUMmOi1_3zJ7J.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 126070,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/find.C3yn97fY_Z1IsgSy.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 149522,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.De7JisSg_Z1CnGo1.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 91288,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/6.CHxhycMz_ZB7enN.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 57752,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/7.DrSXrcHy_ZYysWm.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 68606,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/8.B32f4Kw5_1LEF2j.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 50994,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/9.B8OaJ5u4_Z1SewEk.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 65928,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/10.MMqnuNFW_ZXUuVA.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 49390,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.B6H9KZ7T_Z1viYFn.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 16172,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.VoDq3Ipe_Z1YS4hE.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 30078,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.CQ3vjFHQ_Zt33SR.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 30694,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.DAGGs9fP_Z1UJtgp.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 22958,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.C72NAODK_PigxT.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 36406,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/daoway.D9bj3qFY_Z2slcuI.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 47930,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/qvino.DiVd47p0_Z6VGmM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 61718,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/cisco.C15MqACm_26uCtG.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 56076,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/11.CxaV6Hbr_Z2tahQs.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 10480,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/12.B_yfKFob_E5EVX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 10736,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/13.Ot7MfZI0_vs2Uh.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 11060,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/14.Y7HraB7U_Zd6fGm.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 11446,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/15.Bz8FqkOV_8dlwv.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 7954,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.B6H9KZ7T_gn53d.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 51488,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.VoDq3Ipe_16yQAT.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 50674,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.CQ3vjFHQ_k5ovo.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 104374,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.DAGGs9fP_11jNq2.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 72956,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/4.C72NAODK_Z2pf8UD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 88694,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/daoway.D9bj3qFY_1vr00k.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 129232,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/qvino.DiVd47p0_aPTwt.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 175786,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/cisco.C15MqACm_2oienW.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 152630,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/11.CxaV6Hbr_Gh6aX.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 38076,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/12.B_yfKFob_1gBeJq.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 35786,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/13.Ot7MfZI0_1Xb3H1.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 43134,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/14.Y7HraB7U_ZkrO94.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 33768,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/15.Bz8FqkOV_k6Ng0.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 25872,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.BBUTsZfA_1UKeWD.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 16310,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.CbjI2etv_1TieKM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 32606,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.3XSJIi3r_knFaV.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 29992,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.Jy0Xd0lH_1IPaGy.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 33228,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bornbred.DpnQGEon_2nKiFi.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 64398,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/flipaclip.yj-Ww02Y_8EERm.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 27586,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/sca.jl2hveyj_ZV05oP.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 47394,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bg.BBUTsZfA_Z1mJO7H.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 51018,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/1.CbjI2etv_6x4Hc.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 102080,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/2.3XSJIi3r_1FzQC.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 77374,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/3.Jy0Xd0lH_Z2j8cqt.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 102264,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/bornbred.DpnQGEon_Z1ausLM.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 170764,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/flipaclip.yj-Ww02Y_1CjjQe.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 79534,
+    "error": null
+  },
+  {
+    "url": "https://cuberto.com/_astro/sca.jl2hveyj_19sYLu.webp?dpl=dpl_GqmhdavyaeYRRMJdnig1N8V3anEA",
+    "bytes": 126914,
+    "error": null
+  }
+]

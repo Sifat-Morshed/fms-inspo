@@ -1,0 +1,48 @@
+{
+  "capturedRoutes": [
+    "/",
+    "/about/",
+    "/blog/",
+    "/blog/ai-can-build-a-website/",
+    "/blog/best-ui-ux-design-agencies-in-the-usa-2026/",
+    "/blog/what-you-need-to-know-before-launching-a-website/",
+    "/contacts/",
+    "/privacy/",
+    "/projects/",
+    "/projects/cisco/",
+    "/projects/daoway/",
+    "/projects/find/",
+    "/projects/flipaclip/",
+    "/projects/potion/",
+    "/projects/puntopago/",
+    "/projects/qvino/",
+    "/projects/riyadh/",
+    "/projects/sca/",
+    "/projects/zelt/",
+    "/services/",
+    "/services/product-design/",
+    "/services/ux-ui-design/",
+    "/services/web-design-development/"
+  ],
+  "publicAssetFiles": 721,
+  "publicAssetBytes": 233738531,
+  "checks": {
+    "viteProductionBuild": "passed",
+    "nativeModuleImports": "74 resolved; 0 missing",
+    "captureScriptSyntax": "passed"
+  },
+  "unresolvedAssetReferences": [
+    {
+      "url": "https://cuberto.com/assets/projects/sca/main.jpg",
+      "bytes": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cuberto.com/assets/projects/zelt/main.jpg",
+      "bytes": 0,
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "browserVisualQA": "not performed: supported browser-control plugin unavailable",
+  "scope": "public pages directly linked from the homepage; deeper routes and backend services are not captured"
+}
